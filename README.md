@@ -45,12 +45,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Using Azure Network Security Group </h2>
 
 
-- Creating inbound security rule to block ICMP traffic
+
 
 ![Denying ICMP traffic](https://github.com/user-attachments/assets/1c5594e6-7eac-41de-9d9e-d6a8239a85d7)
+
+ Creating inbound security rule to block ICMP traffic.
+ 
+
+![no reply firewall blocking ICMP4 traffic](https://github.com/user-attachments/assets/de4dab6a-ebeb-4a96-9bca-463430d364c3)
+
+Successfully configured firewall to block ICMP traffic.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
