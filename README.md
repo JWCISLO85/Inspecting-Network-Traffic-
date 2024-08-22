@@ -21,7 +21,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Steps</h2>
 
 - Created two virtual machines in Azure one Windows 10 and One Ubuntu Server
 - Used ping command to test connectivity between the two machines
