@@ -49,12 +49,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![Denying ICMP traffic](https://github.com/user-attachments/assets/1c5594e6-7eac-41de-9d9e-d6a8239a85d7)
 
- Creating inbound security rule to block ICMP traffic.
+ - Creating inbound security rule to block ICMP traffic.
  
 
 ![no reply firewall blocking ICMP4 traffic](https://github.com/user-attachments/assets/de4dab6a-ebeb-4a96-9bca-463430d364c3)
 
-Successfully configured firewall to block ICMP traffic.
+- Successfully configured firewall to block ICMP traffic.
 </p>
 <p>
 </p>
