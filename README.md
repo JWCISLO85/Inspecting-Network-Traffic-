@@ -65,6 +65,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
+
+<h2>SSH </h2>
+
 ![ssh into VM2](https://github.com/user-attachments/assets/e22404e4-c085-4dc8-8d36-ef7b9fdecc61)
 
 - Using ssh to login to Ubuntu serve
