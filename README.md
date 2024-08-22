@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Created two virtual machines in Azure one Windows 10 and One Ubuntu Server
 - Used ping command to test connectivity between the two machines
 - Installed Wireshark
-- Used Wiresharkto filter and analyze traffic
+- Used Wireshark to filter and analyze traffic
 - Created an Inbound security rule in Azure Security Group
 - used ssh in powershell to connect to Ubunto server command line
 
