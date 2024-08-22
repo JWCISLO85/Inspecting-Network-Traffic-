@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Created an Inbound security rule in Azure Security Group
 - used ssh in powershell to connect to Ubunto server command line
 
-<h2>Actions and Observations</h2>
+<h2>Analyzing ICMP Network Traffic</h2>
 
 <p>
 
