@@ -51,10 +51,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
  - Creating inbound security rule to block ICMP traffic.
  
-
 ![Rule](https://github.com/user-attachments/assets/3862e62b-a18a-4e8f-bd92-ab9da599eba4)
 
-- Inbound rule created
 
 
 
@@ -67,10 +65,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![ssh into VM2](https://github.com/user-attachments/assets/e22404e4-c085-4dc8-8d36-ef7b9fdecc61)
+
+- Using ssh to login to Ubuntu serve
+- Filtering ssh traffic on Wireshark
 </p>
 <br />
