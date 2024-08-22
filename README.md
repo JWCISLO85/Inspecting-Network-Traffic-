@@ -36,8 +36,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![Pinging VM 2 and showing traffic with ICMP filter](https://github.com/user-attachments/assets/75725500-be75-4f65-891e-73d51f1d6572)
 
--Using powershell to ping the Ubuntu Server virtual machine
--Using Wireshark to filter ICMP traffic.
+- Using powershell to ping the Ubuntu Server virtual machine
+
+- Using Wireshark to filter ICMP traffic.
 </p>
 <br />
 
