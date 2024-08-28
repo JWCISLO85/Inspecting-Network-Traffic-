@@ -28,7 +28,7 @@ I completed this project to observe various network traffic to and from Azure Vi
 - Installed Wireshark
 - Used Wireshark to filter and analyze traffic
 - Created an Inbound security rule in Azure Security Group
-- used ssh in powershell to connect to Ubunto server command line
+- Used ssh in powershell to connect to Ubuntu server command line
 
 <h2>Analyzing ICMP Network Traffic</h2>
 
