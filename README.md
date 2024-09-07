@@ -5,6 +5,7 @@
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 I completed this project to observe various network traffic to and from Azure Virtual Machines with Wireshark to gain a better understanding of Firewalls and protocols. <br />
 
+![image](https://github.com/user-attachments/assets/d149fcd9-ee3d-48eb-83f1-97ab05bc636f)
 
 
 
